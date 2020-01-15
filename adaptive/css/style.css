@@ -638,6 +638,7 @@ video {
 	.con_out {
 		margin-top: 30px;
 		height: 350px;
+		width: 100%;
 	}
 
 	.box_out {
